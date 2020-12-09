@@ -1,6 +1,6 @@
 run_code_inside = true
-p "Code before if...end"
+puts "Code before if...end"
 if run_code_inside
-  p "code inside"
+  puts "code inside"
 end
-p "Code after if...end"
+puts "Code after if...end"
